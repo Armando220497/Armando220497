@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Armando Di Santo, a Junior Web Developer passionate about web development and visual content creation.
+- 👀 I’m interested in enhancing user experiences through front-end development and exploring the power of back-end technologies.
+- 🌱 I’m currently learning React and expanding my skills with modern JavaScript frameworks, alongside honing my design skills with Canva.
+- 💞️ I’m looking to collaborate on projects that involve front-end or full-stack development, especially in React or Laravel.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/armando-di-santo/) or via email at armando@example.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love sport fishing and taking care of my aquariums in my free time. 🐟
